@@ -58,18 +58,18 @@ The Matrix Rain Animator is a visually captivating tool that simulates the famou
 
 ## Usage Instructions
 
-- **Shape and Rain Selection**: Use the **Shape** and **Rain Character** dropdowns to choose different shapes and character types for the animation.
-- **Parameter Controls**: Experiment with sliders to adjust **Rain Speed**, **Character Speed**, **Shape Speed**, and **Font Size**.
-- **Color Customization**: Use color pickers for **Rain Color**, **Shape Color**, and **Background Color** to personalize the display.
-- **Toggle Options**: Toggle rain, shape visibility, and other options for further customization.
+- **Shape and Rain Selection** : Use the **Shape** and **Rain Character** dropdowns to choose different shapes and character types for the animation.
+- **Parameter Controls** : Experiment with sliders to adjust **Rain Speed**, **Character Speed**, **Shape Speed**, and **Font Size**.
+- **Color Customization** : Use color pickers for **Rain Color**, **Shape Color**, and **Background Color** to personalize the display.
+- **Toggle Options** : Toggle rain, shape visibility, and other options for further customization.
 
 ---
 
 ## Technical Highlights
 
-- **GUI and Interactivity**: The tool features a responsive GUI built with `pygame`, making it user-friendly and highly interactive.
-- **Real-time Rendering**: The Matrix rain effect and shape animations are rendered in real-time, showcasing efficient graphics handling and frame rate management in `pygame`.
-- **Customization Flexibility**: With a range of adjustable parameters, this project highlights the ability to implement multiple customization options within an interactive tool.
+- **GUI and Interactivity** : The tool features a responsive GUI built with `pygame`, making it user-friendly and highly interactive.
+- **Real-time Rendering** : The Matrix rain effect and shape animations are rendered in real-time, showcasing efficient graphics handling and frame rate management in `pygame`.
+- **Customization Flexibility** : With a range of adjustable parameters, this project highlights the ability to implement multiple customization options within an interactive tool.
 
 ---
 
