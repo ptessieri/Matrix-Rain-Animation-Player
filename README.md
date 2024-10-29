@@ -79,5 +79,11 @@ The Matrix Rain Animator was developed to explore visual effects programming, an
 
 Feel free to reach out with suggestions or if you’re interested in contributing to this project!
 
+---
+
+## License
+
+This project is open-source and available under the MIT License.
+
 
 
