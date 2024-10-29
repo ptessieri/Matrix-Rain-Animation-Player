@@ -24,11 +24,11 @@ The Matrix Rain Animator is a visually captivating tool that simulates the famou
 
 ## Screenshots
 
-1. **Classic Green Rain with Cube Shape**
+1. **Classic Green Rain with Cube Shape on Black Background**
    ![Classic Green Rain with Cube Shape](https://github.com/ptessieri/Matrix-Rain-Animation-Player/blob/main/Screenshot%202024-10-28%20183343.png?raw=true)
 
-2. **Red Rain with Twisting Shape Animation**
-   ![Red Rain with Twisting Shape Animation](<PLACE_LINK_TO_SECOND_IMAGE_HERE>)
+2. **Red Rain with Pyramid Shape on White Background**
+   ![Red Rain with Twisting Shape Animation](https://github.com/ptessieri/Matrix-Rain-Animation-Player/blob/main/Screenshot%202024-10-28%20183651.png?raw=true)
 
 3. **Special Character Rain with Pyramid Shape on Teal Background**
    ![Special Character Rain with Pyramid Shape on Teal Background](<PLACE_LINK_TO_THIRD_IMAGE_HERE>)
