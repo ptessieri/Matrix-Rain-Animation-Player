@@ -52,8 +52,6 @@ The Matrix Rain Animator is a visually captivating tool that simulates the famou
    ```bash
    python matrix_rain_animator.py
 
-
-```markdown
 ---
 
 ## Usage Instructions
